@@ -5,6 +5,7 @@
 - Refine presented stories
 - Estimate the **effort** required for the presented stories in the backlog.
 - Identify any impediments to stories which are being refined
+- Stories that are too large are sliced into smaller stories
 
 ## Participation
 
@@ -36,12 +37,10 @@
 
 ## Measures
 
-- How many presented stories were able to be estimated
-- How many of the expected stories were refined
-- How were the estimations reflected against time taken to complete the story
-- How often is there a conflict in estimated points for a story
-
-How might one measure the impact of this ceremony positive or negative?
+- How many presented stories were able to be estimated?
+- How many of the expected stories were refined?
+- How were the estimations reflected against time taken to complete the story?
+- How often is there a conflict in estimated points for a story?
 
 ## Facilitation Guidance
 
