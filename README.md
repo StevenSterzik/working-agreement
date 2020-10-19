@@ -26,7 +26,7 @@ their own, and adjust times, communication channels, branch naming policies etc.
 ## Work life balance
 
 - Our office hours, when we can expect to collaborate via Microsoft Teams, phone or face-to-face are Monday to Friday 9AM - 3PM
-- We are not expected to answer emails past 6PM, on weekends or when we are on holidays or vacation.
+- We are not expected to answer emails past 3PM, on weekends or when we are on holidays or vacation.
 - We work in different time zones and respect this, especially when setting up recurring meetings.
 - We record meetings when possible, so that team members who could not attend live can listen later.
 
@@ -40,9 +40,9 @@ their own, and adjust times, communication channels, branch naming policies etc.
 | Activity | When | Duration | Who | Accountable | Goal |
 |-|-|-|-|-|-|
 | [Project Standup](../../stand-ups/readme.md) | Mon-Fri 9AM | 15 min | Everyone | Process Lead | What has been accomplished, next steps, blockers |
-| Sprint Demo | Teusday 9:30AM | 30 Min | Everyone | Tech Lead | Present work done and sign off on user story completion |
-| [Sprint Retro](../../retrospectives/readme.md) | Teusday 11:30AM | 1 hour | Everyone | Process Lead | Dev Teams shares learnings and what can be improved |
-| [Sprint Planning](../../sprint-planning/readme.md) | Teusday 3PM | 1 hour | Everyone | PO | Prepare for next sprint and ensure that stories are ready for next sprint. |
+| Sprint Demo | Tuesday 9:30AM | 30 Min | Everyone | Tech Lead | Present work done and sign off on user story completion |
+| [Sprint Retro](../../retrospectives/readme.md) | Tuesday 11:30AM | 1 hour | Everyone | Process Lead | Dev Teams shares learnings and what can be improved |
+| [Sprint Planning](../../sprint-planning/readme.md) | Tuesday 3PM | 1 hour | Everyone | PO | Prepare for next sprint and ensure that stories are ready for next sprint. |
 | Task Creation | After Sprint Planning | - | Dev Team | Tech Lead | Create tasks to clarify and determine velocity |
 | [Backlog Refinement](../../backlog-management/grooming/readme.md) | Monday 2PM | 1 hour | Everyone | PO | Size and plan user stories for the sprint  |
 
