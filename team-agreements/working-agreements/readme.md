@@ -39,7 +39,7 @@ their own, and adjust times, communication channels, branch naming policies etc.
 
 | Activity                                                            | When                  | Duration | Who      | Accountable  | Goal                                                                       |
 | ------------------------------------------------------------------- | --------------------- | -------- | -------- | ------------ | -------------------------------------------------------------------------- |
-| [Project Standup](../../stand-ups/readme.md)                        | Mon-Fri 9AM           | 15 min   | Everyone | Process Lead | What has been accomplished, next steps, blockers                           |
+| [Project Standup](../../stand-ups/readme.md)                        | Mon-Fri 10:15AM           | 15 min   | Everyone | Process Lead | What has been accomplished, next steps, blockers                           |
 | Sprint Demo                                                         | Tuesday 9:30AM        | 30 Min   | Everyone | Tech Lead    | Present work done and sign off on user story completion                    |
 | [Sprint Retro](../../retrospectives/readme.md)                      | Tuesday 11:30AM       | 1 hour   | Everyone | Process Lead | Dev Teams shares learnings and what can be improved                        |
 | [Sprint Planning](../../sprint-planning/readme.md)                  | Tuesday 3PM           | 1 hour   | Everyone | PO           | Prepare for next sprint and ensure that stories are ready for next sprint. |
