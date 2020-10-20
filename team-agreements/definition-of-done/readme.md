@@ -17,6 +17,7 @@ The development team should decide together what their Definition of Done is and
 - [ ] Documentation is updated
 - [ ] The feature is merged into the develop branch
 - [ ] The feature is signed off by the product owner
+- [ ] Solution should be entirely runnable runnable in the local enviornmnet 
 
 ## Sprint Goal
 
