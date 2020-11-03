@@ -45,7 +45,7 @@
 ## Facilitation Guidance
 
 - Only stories that meet the [definition of ready](../../team-agreements/definition-of-ready/readme.md) should be estimated
-- When estimating effort, the 'Planning Poker' approach will be used to estimate complexity of the story
+- When estimating effort, the 'T-Shirt Sizes' approach will be used to estimate complexity of the story
 - If an agreement can not be made on the effort, the largest effort amount wins the estimation
 
 ## Useful Links
